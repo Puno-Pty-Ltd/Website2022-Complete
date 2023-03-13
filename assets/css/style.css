@@ -2672,13 +2672,12 @@ width:100%;
 }
 
 
-.banner_area {
+.banner_area.particle-network-animation {
 	position:relative;
 	height:800px;
 }
-.banner_area_inner {
+.banner_area_inner.particle-network-animation {
 	position:relative;
-	top:50%;
 	transform: translateY(-50%);
 }
 .banner-content {
