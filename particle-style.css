@@ -2,14 +2,15 @@
   position:relative;
 
 }
-/* .particle-network-animation::before {
+.particle-network-animation::before {
   content: "";
   position: inherit;
-  right: 0;
-  bottom: 50;
-  left: 0;
+  right: inherit;
+  bottom: inherit;
+  left: inherit;
+  top: inherit;
   opacity: 0.2;
-} */
+}
 
 .glow {
   z-index: -1;
