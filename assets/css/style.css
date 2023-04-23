@@ -2660,26 +2660,12 @@ width:100%;
 }
 
 
-
-
-
-
-
-
 /* === style_w5 banner ==== */
 .slider_pdlf{
 	padding-left:250px;
 }
 
 
-.banner_area.particle-network-animation {
-	position:relative;
-	height:800px;
-}
-.banner_area_inner.particle-network-animation {
-	position:relative;
-	transform: translateY(-50%);
-}
 .banner-content {
 	position:relative;
 	top:50%;
